@@ -1,2 +1,7 @@
 # analyzing_okadabooks
-An in-depth analysis into Africa's most popular ebook store
+THis project is an EDA done on data scrapped from okadabooks by my webcrawler.
+
+## Aim
+* Generate success metric for authors
+* Indepth insights into the reading pattern of Nigerians
+
