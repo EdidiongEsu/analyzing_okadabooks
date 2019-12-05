@@ -1,4 +1,4 @@
-# analyzing_okadabooks
+# ANALYZING OKADABOOKS
 THis project is an EDA done on data scrapped from okadabooks by my webcrawler.
 
 ## Aim
