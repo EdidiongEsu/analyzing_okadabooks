@@ -1,8 +1,8 @@
 # Analyzing Okadabooks
 ## What is okadabooks:
 [Okadabooks](https://okadabooks.com/) is an online e-book store that caters for a wide range of african literature. It is a publishing platform that allows authors publish their novels or write-up in a few steps. It is very popular for its wide range of categories with over 500,000,000 million pages read annually. 
+<div align="center"><img src="https://github.com/EdidiongEsu/analyzing_okadabooks/blob/master/img/double_header.PNG" align="center"</div>
 
-<div align="center"><img src="img/double_header.PNG" align="center"</div>
 
 ## Main Aims
 * Generate success metric for okadabook authors
@@ -19,17 +19,20 @@
 ![](https://github.com/EdidiongEsu/analyzing_okadabooks/blob/master/img/res2.png)
 
 
-## 3. Top 1% of books have been read more than 716 times** ![](https://github.com/EdidiongEsu/analyzing_okadabooks/blob/master/img/res3.png)
+## 3. Top 1% of books have been read more than 716 times 
+![](https://github.com/EdidiongEsu/analyzing_okadabooks/blob/master/img/res3.png)
 
 
 ## 4. Top 10 most read books 
 ![](https://github.com/EdidiongEsu/analyzing_okadabooks/blob/master/img/res4.PNG)
 
 
-## 5. Authors can compare their books to the top 1% of each category ![](https://github.com/EdidiongEsu/analyzing_okadabooks/blob/master/img/res5.png)
+## 5. Authors can compare their books to the top 1% of each category 
+![](https://github.com/EdidiongEsu/analyzing_okadabooks/blob/master/img/res5.png)
 
 
-## 6. Books with a price are not bought frequently ![](https://github.com/EdidiongEsu/analyzing_okadabooks/blob/master/img/res6.png)
+## 6. Books with a price are not bought frequently 
+![](https://github.com/EdidiongEsu/analyzing_okadabooks/blob/master/img/res6.png)
 
 
 
